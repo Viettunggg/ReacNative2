@@ -1,0 +1,113 @@
+{
+  "product_tree": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/736x/3a/e1/95/3ae195e04598d378e025e5b3998d2c3f.jpg",
+      "name": "Spider Plant",
+      "onffo": "Ưa bóng",
+      "status": "Còn 156 sp",
+      "size": "nhỏ",
+      "origin": "Châu phi",
+      "price": "250.000"
+    },
+    {
+      "id": "2",
+      "image": "https://i.pinimg.com/736x/a0/7c/e7/a07ce748d8c068bd76ee24280f96fcb1.jpg",
+      "name": "Song of India",
+      "onffo": "Ưa bóng",
+      "status": "Còn 156 sp",
+      "size": "nhỏ",
+      "origin": "Châu phi",
+      "price": "250.000"
+    }
+  ],
+  "product_pot": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/736x/c9/b4/4b/c9b44b0fa92dc11b3c83fa018d33b38d.jpg",
+      "name": "Planta Trắng",
+      "price": "250.000"
+    },
+    {
+      "id": "2",
+      "image": "https://i.pinimg.com/736x/21/21/cb/2121cb36ac9f69fae14e176ad9ec2d64.jpg",
+      "name": "Planta Lemon Balm",
+      "price": "250.000"
+    }
+  ],
+  "product_tools": [
+    {
+      "id": "1",
+      "image": "https://i.pinimg.com/736x/ad/0c/b5/ad0cb5f2f8074882fe24388b57dccdbd.jpg",
+      "name": "Xẻng",
+      "price": "250.000"
+    },
+    {
+      "id": "2",
+      "image": "https://i.pinimg.com/736x/59/84/72/59847277615a5e246c9ce3d8aca2383c.jpg",
+      "name": "Cào",
+      "price": "250.000"
+    }
+  ],
+  "LOGIN": [
+    {
+      "id": "1",
+      "name": "tung",
+      "email": "johndoe@example.com",
+      "pass": "12345",
+      "phone": "0987654321"
+    },
+    {
+      "id": "5b75",
+      "email": "tung@gmail.com",
+      "name": "tung",
+      "pass": "123",
+      "phone": "0987654321"
+    },
+    {
+      "id": "7b0c",
+      "username": "viettung",
+      "password": "12345"
+    },
+    {
+      "id": "25d6",
+      "username": "viettung",
+      "password": "112345"
+    },
+    {
+      "id": "c1a6",
+      "username": "viettung",
+      "password": "12345"
+    },
+    {
+      "id": "d0a0",
+      "username": "viettung",
+      "password": "12345"
+    },
+    {
+      "id": "4fb4",
+      "username": "viettung",
+      "password": "1234455"
+    },
+    {
+      "id": "2ccb",
+      "username": "viettung",
+      "password": "123456"
+    },
+    {
+      "id": "0ff5",
+      "username": "viettung",
+      "password": "123456"
+    },
+    {
+      "id": "811a",
+      "username": "viettung",
+      "password": "123456"
+    },
+    {
+      "id": "6523",
+      "username": "viettung",
+      "password": "123456"
+    }
+  ]
+}
